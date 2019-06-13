@@ -7,3 +7,11 @@ The use of AR and VR modalities for visualization of 3D biomedical image data is
 For the purpose of this tutorial, we plan a practical or hands-on session. Given different visualization tasks, participants work in small groups to create appropriate visualizations. We anticipate that this could lead to an exploration of the design space. In turn, we could indicate what might benefit from adjustment or be better suited to the task at hand.
 
 This tutorial is a forum for Scientific and Engineering developments in this area, as well as for two talks which overview these different aspects of the field from Prof. Bernhard Preim and Prof. Nassir Navab.
+
+## License
+```
+All content is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+When using this content, please refer to the content creator and this repository.
+To view a copy of this license, please refer to the LICENSE file.
+
+```
